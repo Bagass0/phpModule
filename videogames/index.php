@@ -28,7 +28,7 @@ if ($error) {
   ?>
 
 <h1>Bienvenue sur notre site web !</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor felis non velit blandit, eu aliquam purus lobortis. Duis sit amet ex risus. Fusce finibus blandit nibh, ac bibendum nulla gravida a. In scelerisque enim vitae lorem aliquet, eu bibendum sapien eleifend. Ut venenatis sapien vel mauris malesuada aliquet. Integer iaculis auctor orci, vel efficitur ipsum fringilla id.</p>
+  <p>Bienvenue sur notre site de vente de jeux vidéos ! Nous sommes ravis de vous accueillir dans notre univers dédié aux jeux vidéos, où vous pourrez découvrir une large sélection de jeux pour toutes les consoles et plateformes. Que vous soyez un joueur débutant ou un joueur confirmé, nous avons ce qu'il vous faut pour vous divertir et vous amuser pendant des heures. Notre site est conçu pour vous offrir une expérience de shopping en ligne agréable et facile, avec des descriptions détaillées, des avis d'utilisateurs et des recommandations personnalisées pour vous aider à trouver le jeu parfait. Alors, n'hésitez plus et plongez dans notre sélection de jeux vidéos pour vivre des aventures incroyables !</p>
 
   
 

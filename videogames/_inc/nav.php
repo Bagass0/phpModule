@@ -5,7 +5,7 @@ if (session_status() == PHP_SESSION_NONE) {
 
 require_once 'functions.php';
 ?>
-<nav class="navbar navbar-expand-lg bg-dark">
+<nav class="navbar navbar-expand-lg bg-secondary">
 <div class="container d-flex justify-content-start m-0">
   <a href="/" class="navbar-brand"><img src="../img/logo.png" alt="Logo" class="logo"></a>
   <ul class="navbar-nav d-flex">

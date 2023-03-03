@@ -41,11 +41,11 @@ if ($error) {
   <form method="post" action="login.php">
     <div class="form-group">
       <label for="email">Adresse e-mail</label>
-      <input type="email" name="email" class="form-control" id="email" placeholder="Entrez votre adresse e-mail">
+      <input type="email" name="email" class="form-control" id="email" value="test@test.fr">
     </div>
     <div class="form-group">
       <label for="password">Mot de passe</label>
-      <input type="password" name="password" class="form-control" id="password" placeholder="Entrez votre mot de passe">
+      <input type="password" name="password" class="form-control" id="password" value="password">
     </div>
     <button type="submit" class="btn btn-primary">Se connecter</button>
   </form>
